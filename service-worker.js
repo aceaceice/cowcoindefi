@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cowcoindefi/precache-manifest.80b90254142b31dc0ffe47fa368e147e.js"
+  "/cowcoindefi/precache-manifest.95d43683361c3a97faa27a23499d64de.js"
 );
 
 self.addEventListener('message', (event) => {

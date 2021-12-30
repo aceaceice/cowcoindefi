@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56158faaa140108fe68215b9f7c8f817",
+    "revision": "bba53f830912cc1179bd1b7dbd15c594",
     "url": "/cowcoindefi/index.html"
   },
   {
-    "revision": "da5ac25d4d8790c10de4",
+    "revision": "14a5dc0c1567f8650eeb",
     "url": "/cowcoindefi/static/css/main.c3ecde01.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cowcoindefi/static/js/2.b9ee28ea.chunk.js"
   },
   {
-    "revision": "da5ac25d4d8790c10de4",
-    "url": "/cowcoindefi/static/js/main.0a104f21.chunk.js"
+    "revision": "14a5dc0c1567f8650eeb",
+    "url": "/cowcoindefi/static/js/main.7dfa0c8b.chunk.js"
   },
   {
     "revision": "a21d8d9bfd4ced6f9914",
