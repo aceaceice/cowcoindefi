@@ -112,8 +112,7 @@ class App extends Component {
     return (
       <div className="app">
         <div>
-        <a href="https://github.com/aceaceice/cowbank">Github</a>
-
+        <a href="https://github.com/aceaceice/cowcoindefi">Github</a>
         </div>
         <h1>Cow bank</h1>
         <h2>Stake your photons to earn COW COINS</h2>

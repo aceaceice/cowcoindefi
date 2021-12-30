@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aceaceice.github.io/cowbank/",
+  "homepage": "https://aceaceice.github.io/cowcoindefi/",
   "dependencies": {
     "react": "16.11.0",
     "react-dom": "16.11.0",
