@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cowcoindefi/static/css/main.c3ecde01.chunk.css",
+    "main.js": "/cowcoindefi/static/js/main.0a104f21.chunk.js",
+    "main.js.map": "/cowcoindefi/static/js/main.0a104f21.chunk.js.map",
+    "runtime-main.js": "/cowcoindefi/static/js/runtime-main.9a9d295e.js",
+    "runtime-main.js.map": "/cowcoindefi/static/js/runtime-main.9a9d295e.js.map",
+    "static/js/2.b9ee28ea.chunk.js": "/cowcoindefi/static/js/2.b9ee28ea.chunk.js",
+    "static/js/2.b9ee28ea.chunk.js.map": "/cowcoindefi/static/js/2.b9ee28ea.chunk.js.map",
+    "index.html": "/cowcoindefi/index.html",
+    "precache-manifest.80b90254142b31dc0ffe47fa368e147e.js": "/cowcoindefi/precache-manifest.80b90254142b31dc0ffe47fa368e147e.js",
+    "service-worker.js": "/cowcoindefi/service-worker.js",
+    "static/css/main.c3ecde01.chunk.css.map": "/cowcoindefi/static/css/main.c3ecde01.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a9d295e.js",
+    "static/js/2.b9ee28ea.chunk.js",
+    "static/css/main.c3ecde01.chunk.css",
+    "static/js/main.0a104f21.chunk.js"
+  ]
+}
